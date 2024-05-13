@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fb3d051-b80e-4d62-8985-dcd5487416d9": {
+      "ProjectGuid": "3fb3d051-b80e-4d62-8985-dcd5487416d9",
+      "DisplayName": "ContactListV2.Business",
+      "ColorIndex": 0
+    },
+    "2bca322d-8532-4f2f-b9b8-bb90c3e9fdaa": {
+      "ProjectGuid": "2bca322d-8532-4f2f-b9b8-bb90c3e9fdaa",
+      "DisplayName": "ContactListV2.Data",
+      "ColorIndex": 1
+    },
+    "3ec22cba-fbe3-4c9e-91ac-d258c4851ec9": {
+      "ProjectGuid": "3ec22cba-fbe3-4c9e-91ac-d258c4851ec9",
+      "DisplayName": "ContactListV2.UI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
